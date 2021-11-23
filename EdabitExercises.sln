@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdabitExercises", "EdabitExercises.csproj", "{EFC9B7A9-9FF7-453F-B56B-6DDBB2B3862B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC9B7A9-9FF7-453F-B56B-6DDBB2B3862B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC9B7A9-9FF7-453F-B56B-6DDBB2B3862B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC9B7A9-9FF7-453F-B56B-6DDBB2B3862B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC9B7A9-9FF7-453F-B56B-6DDBB2B3862B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350988F7-ED9A-4020-B7F3-61651B4FE10F}
+	EndGlobalSection
+EndGlobal
